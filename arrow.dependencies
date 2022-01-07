@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_kernel_xiaomi_sm8250",
+    "repository": "android_kernel_xiaomi_gauguin",
     "target_path": "kernel/xiaomi/picasso"
   },
   {
@@ -14,5 +14,9 @@
   {
     "repository": "android_packages_apps_GCamGOPrebuilt",
     "target_path": "packages/apps/GCamGOPrebuilt"
+  },
+  {
+    "repository": "android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
   }
 ]
